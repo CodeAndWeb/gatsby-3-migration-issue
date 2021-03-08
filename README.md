@@ -11,7 +11,7 @@ Everything is ok from the start:
 
 Visit http://localhost:8000/___graphql
 
-![](graphql-ok.png|width=200)
+<img src="./graphql-ok.png" width="200">
 
 Edit `gatsby-node.js` and uncomment the following lines:
 
@@ -28,5 +28,6 @@ Edit `gatsby-node.js` and uncomment the following lines:
 
 Re-start gatsby and visit http://localhost:8000/___graphql
 
-![](graphql-context-missing.png|width=200)
+<img src="./graphql-context-missing.png" width="200">
+
 
